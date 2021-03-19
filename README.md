@@ -1,19 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-3872
-Fork on GitHub
-706
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-markdown
 <h1 align="center">I'm Boone Epstein</h1>
 <h3 align="center">A software developer living in Minneapolis, MN</h3>
 
