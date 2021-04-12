@@ -1,15 +1,9 @@
 <h1 align="center">I'm Boone Epstein</h1>
 <h3 align="center">A software developer living in Minneapolis, MN</h3>
 
-- I’m mostly working on [Tashtego, a reading-list organizer](https://github.com/deadbelly/tashtego)
+I'm really interested in applicaitons that change how people organize their lives. I tend to work with JavaScript/TypeScript, React, HTML/CSS, and GraphQL. I've started to explore more server-side languages like Python and PHP. Projects I'm currently working on include [Backcountry Buddy - an avalanche safety and planning app for backcountry skiers](https://github.com/Back-Country-Buddy), [Tashtego - a reading-list organizer](https://github.com/deadbelly/tashtego), and [KJ Timer - a daily scheduling app that re-creates the features of the now defunct 30/30](https://github.com/deadbelly/kj-timer). Please message me to chat about accessibility on mobile platforms, open source diabetes software, and how Victor Hugo predicted the role of web development in his novel Notre-Dame de Paris.
 
-- I’m currently learning **TypeScript, Redux, and I'm dipping my toes into React Native**
-
-- I'm also building [KJ Timer, a daily scheduling app that re-creates the features of the now defunct 30/30](https://github.com/deadbelly/kj-timer)
-
-- Ask me about **Progressive Web Applications, accessibility on mobile platforms, and how Victor Hugo predicted the role of web development in his novel the Hunchback of Notre Dame**
-
-- Email me: **booneepstein@gmail.com**
+Email me: **booneepstein@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
